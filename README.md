@@ -1,9 +1,11 @@
 Executive Author
 CK Rao — Executive Leader in Enterprise AI Architecture, Data Strategy, and Cyber Resilience.
 
-LinkedIn: CK Rao Profile
+LinkedIn: CK Rao Profile: https://www.linkedin.com/in/itckrao/
 
-Thought Leadership: AI to Super Intelligence (SI) Framework
+
+Thought Leadership: AI to Super Intelligence (SI) Framework: https://lnkd.in/p/eKayJjSv
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
